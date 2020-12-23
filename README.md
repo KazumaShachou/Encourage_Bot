@@ -1,7 +1,7 @@
 # This is a simple discord bot, made for encourage you!
 
 ## How to run
-I used the site https://repl.it/~ for thiswork. 
+I used the site https://repl.it/~ for this work. 
 
 <p>1- Copy the code</p>
 <p>2 - login in the site https://discord.com/developers/applications , you will need to create a bot
